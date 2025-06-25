@@ -21,6 +21,7 @@ Book descriptions:
 Physical book "The Great Book" by John Doe (2020)
 E-book "Digital Book" by John Doe (2021) - Available at: <https://example.com/ebook>
 ```
+![alt text](image.png)
 
 ### Основні класи:
 
