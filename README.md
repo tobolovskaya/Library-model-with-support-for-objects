@@ -1,6 +1,7 @@
 # Домашнє завдання №1 — Design Patterns
 
 Цей проєкт є реалізацією предметної області «Бібліотека» з використанням принципів ООП: інкапсуляції, композиції, наслідування та поліморфізму.
+Library model with support for objects: books, authors, physical copies, readers, library as an aggregator.
 
 ## Запуск проєкту
 
